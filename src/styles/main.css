@@ -1,0 +1,26 @@
+#one {
+    border: 1px solid blue;
+    min-height: 20px;
+    min-width: 200px;
+    width: auto;
+    height: auto;
+}
+
+#two {
+    border: 1px solid red;
+    min-height: 20px;
+    min-width: 200px;
+    width: auto;
+    height: auto;
+}
+
+div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+label {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
